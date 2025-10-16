@@ -1,3 +1,9 @@
+Author(s): Montes Kato Alberto Daiji
+
+Status: Draft
+
+Ultima actualización: 15-10-2025
+
 ## Goals
 - Localizar las 3 tiendas Oxxo mas cercanas en Ensenada desde un punto inicial.
 - La busqueda en la base de datos sea precisa.
